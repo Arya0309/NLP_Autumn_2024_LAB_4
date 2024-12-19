@@ -1,0 +1,502 @@
+[
+    {
+        "qid": 0,
+        "query": "How much of a day do cats spend sleeping on average?",
+        "answer": "2/3"
+    },
+    {
+        "qid": 1,
+        "query": "What is the technical term for a cat's hairball?",
+        "answer": "Bezoar"
+    },
+    {
+        "qid": 2,
+        "query": "What do scientists believe caused cats to lose their sweet tooth?",
+        "answer": "A mutation in a key taste receptor"
+    },
+    {
+        "qid": 3,
+        "query": "What is the top speed a cat can travel over short distances?",
+        "answer": "31 mph"
+    },
+    {
+        "qid": 4,
+        "query": "What is the name of the organ in a cat's mouth that helps it smell?",
+        "answer": "Jacobson\u2019s organ"
+    },
+    {
+        "qid": 5,
+        "query": "Which wildcat is considered the ancestor of all domestic cats?",
+        "answer": "African Wild Cat"
+    },
+    {
+        "qid": 6,
+        "query": "What is the group term for cats?",
+        "answer": "Clowder"
+    },
+    {
+        "qid": 7,
+        "query": "How many different sounds can cats make?",
+        "answer": "100"
+    },
+    {
+        "qid": 8,
+        "query": "What is the name of the first cat in space?",
+        "answer": "F\u00e9licette"
+    },
+    {
+        "qid": 9,
+        "query": "How many toes does a cat have on its back paws?",
+        "answer": "Four"
+    },
+    {
+        "qid": 10,
+        "query": "What unique climbing limitation do cats have?",
+        "answer": "Must back down a tree"
+    },
+    {
+        "qid": 11,
+        "query": "What frequency range can cats hear?",
+        "answer": "two octaves higher than a human"
+    },
+    {
+        "qid": 12,
+        "query": "What was the largest litter of kittens ever recorded?",
+        "answer": "19 kittens"
+    },
+    {
+        "qid": 13,
+        "query": "What is the average lifespan of a domestic cat?",
+        "answer": "14 years"
+    },
+    {
+        "qid": 14,
+        "query": "What is the name of the smallest wildcat?",
+        "answer": "Black-footed cat"
+    },
+    {
+        "qid": 15,
+        "query": "Why do cats hate water?",
+        "answer": "Fur doesn't insulate"
+    },
+    {
+        "qid": 16,
+        "query": "How many whiskers do cats have on each side of their face?",
+        "answer": "12"
+    },
+    {
+        "qid": 17,
+        "query": "What is the body temperature range of a healthy cat?",
+        "answer": "100.5\u00b0F to 102.5\u00b0F"
+    },
+    {
+        "qid": 18,
+        "query": "How many teeth do adult cats have?",
+        "answer": "30"
+    },
+    {
+        "qid": 19,
+        "query": "What is the name of the Egyptian cat goddess?",
+        "answer": "Bast"
+    },
+    {
+        "qid": 20,
+        "query": "What is the name of the first domesticated cat ancestor?",
+        "answer": "Proailurus"
+    },
+    {
+        "qid": 21,
+        "query": "What is the smallest pedigreed cat breed?",
+        "answer": "Singapura"
+    },
+    {
+        "qid": 22,
+        "query": "What is the normal heart rate of a cat?",
+        "answer": "110 to 140 beats per minute"
+    },
+    {
+        "qid": 23,
+        "query": "How far can cats jump compared to their height?",
+        "answer": "Five times"
+    },
+    {
+        "qid": 24,
+        "query": "What unique feature does a cat\u2019s nose have?",
+        "answer": "Ridges"
+    },
+    {
+        "qid": 25,
+        "query": "How flexible is a cat\u2019s spine compared to humans?",
+        "answer": "Up to 53 vertebrae"
+    },
+    {
+        "qid": 26,
+        "query": "What is the term for a cat lover?",
+        "answer": "Ailurophilia"
+    },
+    {
+        "qid": 27,
+        "query": "How many muscles control a cat's ear?",
+        "answer": "32"
+    },
+    {
+        "qid": 28,
+        "query": "Why do cats bury their feces?",
+        "answer": "To hide from predators"
+    },
+    {
+        "qid": 29,
+        "query": "What is the lifespan of the oldest recorded cat?",
+        "answer": "38 years"
+    },
+    {
+        "qid": 30,
+        "query": "How many bones does a cat have?",
+        "answer": "230"
+    },
+    {
+        "qid": 31,
+        "query": "What type of coat does a Turkish Van cat have?",
+        "answer": "Water-resistant coat"
+    },
+    {
+        "qid": 32,
+        "query": "What is the top speed of a Siberian Tiger?",
+        "answer": "50 mph"
+    },
+    {
+        "qid": 33,
+        "query": "What is the size of a Maine Coon compared to other cats?",
+        "answer": "25 lbs"
+    },
+    {
+        "qid": 34,
+        "query": "What type of coffee involves wildcats in its production?",
+        "answer": "Kopi Luwak"
+    },
+    {
+        "qid": 35,
+        "query": "What does a cat use to mark its territory?",
+        "answer": "Scent glands"
+    },
+    {
+        "qid": 36,
+        "query": "What is the technical term for a cat's extra toes?",
+        "answer": "Polydactyl"
+    },
+    {
+        "qid": 37,
+        "query": "How do Siamese kittens get their color points?",
+        "answer": "Body temperature"
+    },
+    {
+        "qid": 38,
+        "query": "What organ helps cats land on their feet?",
+        "answer": "Righting reflex"
+    },
+    {
+        "qid": 39,
+        "query": "How many kittens did the most prolific cat give birth to?",
+        "answer": "420 kittens"
+    },
+    {
+        "qid": 40,
+        "query": "How many hours do cats sleep per day?",
+        "answer": "16 to 18 hours"
+    },
+    {
+        "qid": 41,
+        "query": "What type of cats are most popular in North America?",
+        "answer": "Ragdoll"
+    },
+    {
+        "qid": 42,
+        "query": "What is the unique feature of a cat's inner eyelid?",
+        "answer": "Nictitating membrane"
+    },
+    {
+        "qid": 43,
+        "query": "What makes cats land on their feet after a fall?",
+        "answer": "Righting reflex"
+    },
+    {
+        "qid": 44,
+        "query": "What is the lightest cat on record?",
+        "answer": "Tinker Toy"
+    },
+    {
+        "qid": 45,
+        "query": "What is the largest wildcat species?",
+        "answer": "Siberian Tiger"
+    },
+    {
+        "qid": 46,
+        "query": "Why do cats dislike chocolate?",
+        "answer": "Toxic"
+    },
+    {
+        "qid": 47,
+        "query": "How do cats communicate with humans?",
+        "answer": "Meowing"
+    },
+    {
+        "qid": 48,
+        "query": "What unique feature do white cats with blue eyes often have?",
+        "answer": "Often deaf"
+    },
+    {
+        "qid": 49,
+        "query": "What is the function of a cat's ear tufts?",
+        "answer": "Ear furnishings"
+    },
+    {
+        "qid": 50,
+        "query": "What body part do cats use to sweat?",
+        "answer": "Paws"
+    },
+    {
+        "qid": 51,
+        "query": "How many temporary teeth do kittens have?",
+        "answer": "26"
+    },
+    {
+        "qid": 52,
+        "query": "What percentage of cat owners believe their cat can read their mind?",
+        "answer": "1/3"
+    },
+    {
+        "qid": 53,
+        "query": "What is the most expensive cat on record?",
+        "answer": "Zeus"
+    },
+    {
+        "qid": 54,
+        "query": "How many kittens can a pair of cats and their offspring produce in seven years?",
+        "answer": "420,000"
+    },
+    {
+        "qid": 55,
+        "query": "What is a male cat with orange and black fur called?",
+        "answer": "Sterile"
+    },
+    {
+        "qid": 56,
+        "query": "What type of gene determines a cat's orange coat color?",
+        "answer": "Sex-linked"
+    },
+    {
+        "qid": 57,
+        "query": "What type of disease can cats contract from fleas?",
+        "answer": "Tapeworms"
+    },
+    {
+        "qid": 58,
+        "query": "What do cats think humans are?",
+        "answer": "Big cats"
+    },
+    {
+        "qid": 59,
+        "query": "What is the origin of the word 'tabby'?",
+        "answer": "Attabiyah"
+    },
+    {
+        "qid": 60,
+        "query": "What did ancient Egyptians do when a family cat died?",
+        "answer": "Shave their eyebrows"
+    },
+    {
+        "qid": 61,
+        "query": "What is the largest domesticated cat breed?",
+        "answer": "Maine Coon"
+    },
+    {
+        "qid": 62,
+        "query": "How many hairs per square inch does a cat have?",
+        "answer": "130,000"
+    },
+    {
+        "qid": 63,
+        "query": "What inspired Isaac Newton to invent the cat flap?",
+        "answer": "Spithead kept opening the door"
+    },
+    {
+        "qid": 64,
+        "query": "What are the names of the two big cats that do not roar?",
+        "answer": "Clouded leopard and cheetah"
+    },
+    {
+        "qid": 65,
+        "query": "What is the smallest cat breed by weight?",
+        "answer": "Singapura"
+    },
+    {
+        "qid": 66,
+        "query": "How many kittens did the oldest cat to give birth have?",
+        "answer": "Two kittens"
+    },
+    {
+        "qid": 67,
+        "query": "What is the name of the richest cat?",
+        "answer": "Blackie"
+    },
+    {
+        "qid": 68,
+        "query": "What does a frightened cat's pupil look like?",
+        "answer": "large, round pupils"
+    },
+    {
+        "qid": 69,
+        "query": "What color are Siamese kittens when they are born?",
+        "answer": "White"
+    },
+    {
+        "qid": 70,
+        "query": "What animal is believed to have created the first cat in Hebrew legend?",
+        "answer": "lion"
+    },
+    {
+        "qid": 71,
+        "query": "What percentage of their waking time do cats spend grooming?",
+        "answer": "1/3"
+    },
+    {
+        "qid": 72,
+        "query": "What temperature can cats tolerate if they have enough water?",
+        "answer": "133 \u00b0F"
+    },
+    {
+        "qid": 73,
+        "query": "What famous comic cat has the ability to disappear?",
+        "answer": "Cheshire Cat"
+    },
+    {
+        "qid": 74,
+        "query": "What organ allows cats to smell with their mouths?",
+        "answer": "Jacobson's organ"
+    },
+    {
+        "qid": 75,
+        "query": "What superstition about cats is common in Japan?",
+        "answer": "Turn into super spirits"
+    },
+    {
+        "qid": 76,
+        "query": "Why do mother cats teach their kittens to use a litter box?",
+        "answer": "To instill good habits"
+    },
+    {
+        "qid": 77,
+        "query": "What is the average lifespan of an indoor cat?",
+        "answer": "14 years"
+    },
+    {
+        "qid": 78,
+        "query": "What happens to a cat's coat when exposed to very cold temperatures?",
+        "answer": "Darker points"
+    },
+    {
+        "qid": 79,
+        "query": "How many feral cats are in the United States?",
+        "answer": "Up to 60 million"
+    },
+    {
+        "qid": 80,
+        "query": "What is the name of the first cartoon cat?",
+        "answer": "Felix the Cat"
+    },
+    {
+        "qid": 81,
+        "query": "What is the term for cats returning home from far distances?",
+        "answer": "Psi-traveling"
+    },
+    {
+        "qid": 82,
+        "query": "How many vertebrae does a cat have?",
+        "answer": "53"
+    },
+    {
+        "qid": 83,
+        "query": "What percentage of humans are allergic to cats?",
+        "answer": "10%"
+    },
+    {
+        "qid": 84,
+        "query": "What is the name of the heaviest domestic cat?",
+        "answer": "Himmy"
+    },
+    {
+        "qid": 85,
+        "query": "Why do cats dislike milk?",
+        "answer": "diarrhea"
+    },
+    {
+        "qid": 86,
+        "query": "How many recognized breeds of cats exist worldwide?",
+        "answer": "100"
+    },
+    {
+        "qid": 87,
+        "query": "What is the function of a cat\u2019s tail?",
+        "answer": "Balance and communication"
+    },
+    {
+        "qid": 88,
+        "query": "What temperature causes Siamese cats' points to darken?",
+        "answer": "Below 98\u00b0F"
+    },
+    {
+        "qid": 89,
+        "query": "What is the average meal for a cat equivalent to in mice?",
+        "answer": "Five"
+    },
+    {
+        "qid": 90,
+        "query": "What unique dental feature do cats have?",
+        "answer": "can\u2019t move sideways"
+    },
+    {
+        "qid": 91,
+        "query": "What animal do cats see humans as?",
+        "answer": "Big cats"
+    },
+    {
+        "qid": 92,
+        "query": "How many claws do cats have on their front paws?",
+        "answer": "Five"
+    },
+    {
+        "qid": 93,
+        "query": "What is the function of a cat\u2019s footpads?",
+        "answer": "absorp shock"
+    },
+    {
+        "qid": 94,
+        "query": "What organ is missing in cats, allowing them to squeeze through small spaces?",
+        "answer": "Collarbone"
+    },
+    {
+        "qid": 95,
+        "query": "What color eyes do all kittens have at birth?",
+        "answer": "Blue"
+    },
+    {
+        "qid": 96,
+        "query": "What is the most traveled cat?",
+        "answer": "Hamlet"
+    },
+    {
+        "qid": 97,
+        "query": "What year was the first cat show held?",
+        "answer": "1871"
+    },
+    {
+        "qid": 98,
+        "query": "What plant is toxic to cats?",
+        "answer": "English ivy"
+    },
+    {
+        "qid": 99,
+        "query": "What disease can be transmitted to humans via cat feces?",
+        "answer": "Toxoplasmosis"
+    }
+]
